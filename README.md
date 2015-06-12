@@ -1,0 +1,2 @@
+# DTNetworkIndicatorManager
+DTNetworkIndicatorManager with UIApplication Category
