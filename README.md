@@ -11,7 +11,7 @@ DTNetworkIndicatorManager with UIApplication Category
 
 ##How To Use
 
-1. With DTNetworkIndicatorManager
+######1. With DTNetworkIndicatorManager
 
 ```Objective-c
 #import "DTNetworkIndicatorManager.h"
@@ -38,8 +38,7 @@ DTNetworkIndicatorManager with UIApplication Category
     }
 }];
 ```
-
-2. Like Category for UIApplication
+######2. Like Category for UIApplication
 
 ```Objective-c
 #import "UIApplication+DTNetworkIndicatorManager.h"
