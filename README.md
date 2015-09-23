@@ -45,7 +45,7 @@ DTNetworkIndicatorManager with UIApplication Category
 ```
 
 ```Objective-c
-  [[[UIApplication sharedApplication] showIndicator];
+  [[UIApplication sharedApplication] showIndicator];
 ```
 
 ###Code
